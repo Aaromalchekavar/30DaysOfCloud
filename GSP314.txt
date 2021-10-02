@@ -1,5 +1,6 @@
 Task 1 : Create Production Environment
 
+SSH to kraken-jumphost and run
 
 cd /work/dm
 
